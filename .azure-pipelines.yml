@@ -35,7 +35,6 @@ steps:
     containerregistrytype: 'Azure Container Registry'
     azureSubscriptionEndpoint: 'Visual Studio Professional Subscription (3737a88a-5c4a-4fc0-b5ec-7c08d5054b82)'
     azureContainerRegistry: '{"loginServer":"fordockerimagedev.azurecr.io", "id" : "/subscriptions/3737a88a-5c4a-4fc0-b5ec-7c08d5054b82/resourceGroups/rg-TestDev/providers/Microsoft.ContainerRegistry/registries/fordockerImagedev"}'
-    templateFilePath: 'deployment.template.json'
     defaultPlatform: 'windows-amd64'
     fillRegistryCredential: 'true'
     templateFilePath: EdgeSolution/deployment.template.json
