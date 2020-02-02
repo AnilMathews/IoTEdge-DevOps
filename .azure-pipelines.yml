@@ -3,7 +3,7 @@
 # https://aka.ms/yaml
 
 pool:
-  name: Hosted Ubuntu 1604
+  name: Hosted Windows 2019
   
 steps:
 - task: CopyFiles@2
